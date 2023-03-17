@@ -4,7 +4,7 @@ import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
 public class SpringMain1 {
-
+//create spring boot
 	public static void main(String[] args) {
 	
 		
